@@ -1,5 +1,5 @@
-Nome o Alias Dello Studente: [Place Holder]
-Tipologia di Appunti: [Scritti in digitale/ Scritti a mano e digitalizzati/ Misti]
+Nome o Alias Dello Studente: [Place Holder]\
+Tipologia di Appunti: [Scritti in digitale/ Scritti a mano e digitalizzati/ Misti]\
 //Se il corso è diviso in moduli
 Moduli Trattati:
 - Modulo 1
